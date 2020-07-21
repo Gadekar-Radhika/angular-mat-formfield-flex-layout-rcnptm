@@ -1,0 +1,7 @@
+p {
+  font-family: Lato;
+}
+.style{background-color: black; color:white}
+matInput{color:blue}
+mat-form-field{background-color: black !important;}
+input-row{background-color: black !important}
